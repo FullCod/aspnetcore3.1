@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'edgesoftappserviceplan2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8FC793765E35446BA10BE6E02BB1E5B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06148E1D90714355B33D215F180B6940 }}
           package: .
